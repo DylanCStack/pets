@@ -1,0 +1,12 @@
+body {
+  text-align:center;
+}
+
+.pet {
+  color:blue;
+}
+
+.important {
+  color:red;
+  font-weight: bold;
+}
